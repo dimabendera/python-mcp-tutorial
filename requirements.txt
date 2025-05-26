@@ -1,0 +1,6 @@
+Pillow
+fastmcp
+pydantic_ai
+pydantic-ai[openai]
+python-dotenv
+logfire
