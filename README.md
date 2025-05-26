@@ -1,6 +1,17 @@
 # python-mcp-tutorial
 Цей репозиторій демонструє, як за допомогою Python використовувати протокол MCP (Model Context Protocol)
 
+
+Приклад простого MCP
+```
+python3.12 clients/pydantic_ai_ollama_example.py
+```
+
+Приклад клієнта для AUTO.RIA MCP сервера
+```
+python3.12 clients/pydantic_ai_auto_ria_search.py
+```
+
 # Запуск локальної llm vllm/olamma
 
 ## Запуск olamma
